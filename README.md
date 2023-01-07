@@ -11,5 +11,6 @@
 	6. git push -u origin master
 # Second Time Onwards :
 	1. git status 
-	2. git commit -m “second commit”
-	3. git push
+	2. git add file/folder name
+	3. git commit -m “second commit”
+	4. git push
