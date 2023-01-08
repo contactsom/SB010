@@ -1,0 +1,126 @@
+
+Drive :
+	C  - OS
+	D  -
+	E  - 
+	
+	B.Tech
+	
+	D->
+		BTech 
+			-Sam1
+				ClassNotes
+				Important
+			-Sam2
+				....
+				....
+			-Sam3
+				....
+				....
+			-Sam4
+				....
+				....
+				
+	D->
+		BTech 
+			-studymateriasl
+				sam1
+				sam2
+				sam3
+				sam4
+				
+				------------------------------
+				package :
+					com.simplilearn.datatypes
+					
+					
+					
+					
+					Ideal way to provide the pacakge name 
+					--------------------------------------
+					Folder 1 : [com] 			: com or net 
+					Folder 2 : [simplilearn] 	: name if orgnization
+					Folder 3 : [datatypes]		: module name
+					
+					abc.def.geh
+					
+	
+*********************************************************************
+
+Shop :
+	1 KG Tomato		- A - INDIA
+	100 Met Tomato	- B - UK
+	10 ft Tomato	- C - USA
+	
+	
+	
+	SI Unite
+	
+	
+	
+	Today I walk 1 KM
+	Today I walk 1000 Meat
+	Today I walk 0.621371 Miles
+	Today I walk 1093612.9599738 Yard
+	
+	
+	byte b = 110 ; No Error 
+	byte b1= 122  : 
+	
+	
+	
+	BYTE  : -128 to +127
+	Short : -32768 to +32767
+	
+
+	
+	BREAK:
+		09:40 PM IST
+	
+	
+	
+	TODO:
+	Sir my question is left  for TOOL and also I wnated to know function of JRE and JVM !
+	
+	
+	Sir could we not cover the basic topics in such detail and move towards 
+	the more advanced topics and cover them in such detail?
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
